@@ -1,6 +1,6 @@
 # Master Branch
 
-Welcome to the `master` branch of my repository! This is the main and default branch where I keep the stable version of my projects.
+Welcome to the `master` branch of my repository! This is the branch where I keep the stable version of my projects.
 
 ## About
 
