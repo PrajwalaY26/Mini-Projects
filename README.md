@@ -1,14 +1,14 @@
-# Welcome to the Main Branch of the Projects Repository
+# Welcome to the Projects Repository
 
-This is the main branch of the repository, housing a collection of various projects.
+This is the repository housing a collection of various projects.
 
 ## Repository Contents
 
-This repository contains a diverse set of projects, each with its unique set of challenges and solutions. It includes all the necessary code, resources, and documentation.
+All the codes for the projects are maintained in the `master` branch of this repository. Each project in this repository is unique, presenting its own set of challenges and solutions. It includes all the necessary code, resources, and documentation.
 
 ## Getting Started
 
-To begin, clone this repository to your local machine. Navigate to the project of interest. Each project has its own README file with instructions on how to install dependencies and run the project.
+To begin, clone this repository to your local machine and checkout to the `master` branch. Navigate to the project of interest. Each project has its own README file with instructions on how to install dependencies and run the project.
 
 ## Contribution Guidelines
 
@@ -20,5 +20,3 @@ For any queries or issues, please raise an issue in the `Issues` tab.
 
 
 Happy coding!
-
-
