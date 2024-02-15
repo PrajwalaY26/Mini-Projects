@@ -14,6 +14,13 @@ The repository contains a variety of projects. Each project resides in its own d
 
 Each project has its own set of dependencies and setup instructions. Please refer to the individual project's README for specific instructions.
 
+you can clone this repository and run the scripts:
+
+```bash
+python script_name.py
+```
+Remember to replace script_name.py with the name of the Python script you want to run.
+
 ## Contributing
 
 I welcome any suggestions or feedback. If you have any ideas that can help improve these projects, feel free to open an issue or submit a pull request.
