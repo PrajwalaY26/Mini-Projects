@@ -1,6 +1,6 @@
-#Projects
+# Projects
 
-#Turtle Canvas
+# Turtle Canvas
 In this I have used the Turtle library and make some fun drawings!
 
 1. *Rainbow*: A project that beautifully demonstrates the use of colors in Python.
