@@ -18,7 +18,7 @@ Once you have Python installed, you can clone this repository and run the script
 
 ```bash
 python script_name.py
-
+```
 Remember to replace script_name.py with the name of the Python script you want to run.
 
 ## Contributing
